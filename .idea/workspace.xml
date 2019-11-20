@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="182eb073-d51a-4eba-ad43-f8d9889bb84a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/W1/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/W2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/W3/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/W4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/W4/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +14,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TsMiMjzGXDSC12btbjKPJeT8bR" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Documentos/Python-projects/CSIC" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -49,7 +47,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
